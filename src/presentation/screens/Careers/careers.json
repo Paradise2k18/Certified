@@ -1,0 +1,24 @@
+{
+  "careers": [
+    {
+      "title": "IOS engineer",
+      "description": "Certified is inviting a middle iOS developer to join its team and work with cutting edge technologies.",
+      "imageUrl": "https://media.istockphoto.com/vectors/desktop-computer-icon-computer-screen-symbol-vector-id909909044?k=6&m=909909044&s=170667a&w=0&h=sEMgjncQyZAl0d5bLdAoPnUNPaWNTweSMlokd9SLpuc="
+    },
+    {
+      "title": "Quality assurance",
+      "description": "Certified is inviting quality assurance engineer for a cryptocurrency trading platform.",
+      "imageUrl": "https://www.vippng.com/png/detail/355-3558318_spanner-png-photo-transparent-background-spanner-icon.png"
+    },
+    {
+      "title": "Project coordinator",
+      "description": "Certified is inviting a Project Coordinator for a fintech project..",
+      "imageUrl": "https://www.vippng.com/png/detail/355-3558318_spanner-png-photo-transparent-background-spanner-icon.png"
+    },
+    {
+      "title": "Ruby developer",
+      "description": "Certified is inviting a Ruby Developer to join its team and work with cutting-edge technologies & products",
+      "imageUrl": "https://media.istockphoto.com/vectors/desktop-computer-icon-computer-screen-symbol-vector-id909909044?k=6&m=909909044&s=170667a&w=0&h=sEMgjncQyZAl0d5bLdAoPnUNPaWNTweSMlokd9SLpuc="
+    }
+  ]
+}
