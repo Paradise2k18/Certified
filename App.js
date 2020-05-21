@@ -1,6 +1,6 @@
 import 'react-native-gesture-handler';
 import * as React from 'react';
-import {StyleSheet} from 'react-native';
+import {StyleSheet, Platform} from 'react-native';
 import {NavigationContainer} from '@react-navigation/native';
 import {AppNavigator} from 'navigation';
 
@@ -24,7 +24,7 @@ class App extends React.Component {
   render() {
     return (
       <NavigationContainer>
-        <AppNavigator style={styles.appNavigator} />
+        <AppNavigator style={Platform.OS === 'ios' && styles.appNavigator} />
       </NavigationContainer>
     );
   }
